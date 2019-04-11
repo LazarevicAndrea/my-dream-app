@@ -1,0 +1,51 @@
+#content{
+	margin-top:6%;
+	text-align: center;
+}
+
+#info{
+	text-align: left;
+	margin-bottom: 2%;
+	background-color: #f258a0;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+#info p {
+	color:white;
+}
+
+th, td, tr{
+	text-align: center;
+	color: white;
+}
+
+#button-send-message{
+	width:100%;
+	color: #f258a0;
+	font-weight: bold;
+}
+
+#map{
+	height: 400px;
+	width:100%;
+	-webkit-filter: grayscale(50%);
+	filter: grayscale(50%);
+	
+}
+
+
+
+#message{
+	width: 30%;
+	margin-left: 20%;
+}
+
+#pink-line{
+	width: 50%;
+	margin-left: 15%;
+}
+
+input.ng-invalid.ng-touched{
+	border: 1px solid red;
+}

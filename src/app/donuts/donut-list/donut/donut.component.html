@@ -1,0 +1,18 @@
+<a
+  style="cursor: pointer;"
+  [routerLink]="[index]"
+  routerLinkActive="active"
+  class="donut clearfix">
+    <div class="pull-left">
+      <h4 class="donut-heading">{{ donut.name }}</h4>
+      <p class="donut-text">{{ donut.shortdescription }}</p>
+    </div>
+    <span class="pull-right">
+          <img
+            [src]="donut.imagePath"
+            alt="{{ donut.name }}"
+            class="img-responsive"
+            style="max-height: 100px;">
+    </span>
+</a>
+<hr>

@@ -1,0 +1,28 @@
+
+.pocetak{
+    margin-bottom: 3%;
+	padding-top: 3%;
+	padding-left: 3%;
+	text-align: center; 
+	font-size: 140%;
+}
+
+.kraj{
+	padding-bottom: 1.5%;
+	padding-top: 1%;
+	padding-left: 3%;
+	border-bottom: 2px #f258a0 solid;
+	text-align: center; 
+	font-size: 140%;
+}
+
+.kolona {
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+}
+
+.blockquote-footer {
+	background: none;
+	font-size: 100%;
+	color: #808080;
+}

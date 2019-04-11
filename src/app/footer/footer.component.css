@@ -1,0 +1,28 @@
+footer{ 
+    position: fixed; 
+    left: 0; 
+    bottom: 0; 
+    height:50px; 
+    width:100%; 
+    background-color: #f258a0; 
+    margin-top: 2%; 
+    border-top: 2px solid white;
+
+} 
+
+#footerMenu{ 
+    text-align: center; 
+
+} 
+
+#footerMenu li{ 
+    list-style-type: none; 
+    display: inline-block; 
+    padding-top: 16px; 
+    padding-right: 20px; 
+} 
+
+#footerMenu a{ 
+    font-size: 14px; 
+    color: white; 
+}

@@ -1,0 +1,14 @@
+h1 {
+    color: #f258a0;
+}
+
+#desc {
+    color: #d42e84;
+    padding-bottom: 15%;
+}
+
+.container{
+    position: sticky;
+    top:5px;
+    overflow: hidden;
+}
